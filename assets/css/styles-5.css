@@ -233,12 +233,11 @@ p {
   margin-bottom: 15px;
 }
 .skillset .item {
-  margin-bottom: 15px;
   overflow: hidden;
 }
 .skillset .level-title {
   margin-left: 40px;
-  font-size: 55px;
+  font-size: 40px;
   margin-top: 0;
   margin-bottom: 12px;
   margin-top: -5px;
